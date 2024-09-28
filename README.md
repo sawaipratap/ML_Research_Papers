@@ -97,7 +97,7 @@ Amir Najmi, Siddartha Naidu
 * compressed sensing
   * 2004 - ["Compressed Sensing"](https://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Donoho04.pdf) - David L. Donoho
 
-# Network Graphs / combinatorial optimization
+# Network Graphs / Combinatorial Optimization
 
 * Graph anomaly detection (enron)
   * 2005 - ["Scan Statistics On Enron Graphs"](https://www.researchgate.net/publication/220556790_Scan_Statistics_on_Enron_Graphs) - Carey E. Priebe, John M. Conroy, David J. Marchette, Youngser Park
@@ -122,7 +122,7 @@ Amir Najmi, Siddartha Naidu
   * 2008 - [Group theoretical methods in machine learning (thesis)](https://people.cs.uchicago.edu/~risi/papers/KondorThesis.pdf) - Risi Kondor
   * 2021 - [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478) - Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković
 
-# Misc optimization and numerical methods
+# Misc Optimization and Numerical Methods
 
 * Expectation maximization
 * Newton-raphson
@@ -133,18 +133,18 @@ Amir Najmi, Siddartha Naidu
 * Constraint Programming / queing theory / OR
   * Uh... here there be dragons. Maybe just leave some breadcrumbs here?
 
-# Neural optimizers
+# Neural Optimizers
 
 * perceptron algorithm
 * SGD / backprop
   * 1986 - ["Learning representations by back-propagating errors"](http://www.cs.utoronto.ca/~hinton/absps/naturebp.pdf) - David Rumelhart, Geoffrey Hinton, Ronald Williams
   * 1998 - ["Efficient Backprop"](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf) -  Yann LeCun, Leon Bottou, Genevieve B. Orr and Klaus-Robert Müller
-* Adagrad / RMSProp
-  * Probably discussed sufficiently in the Adam paper
-* Adam
-  * 2014 - ["Adam: A Method for Stochastic Optimization"](https://arxiv.org/abs/1412.6980) - Diederik P. Kingma, Jimmy Ba 
 * reverse-mode autodiff
   * see backprop
+* Adam
+  * 2014 - ["Adam: A Method for Stochastic Optimization"](https://arxiv.org/abs/1412.6980) - Diederik P. Kingma, Jimmy Ba 
+* Adagrad / RMSProp
+  * Probably discussed sufficiently in the Adam paper
 * gradient clipping
 * learning rate scheduling
 * distributed training
@@ -158,7 +158,7 @@ Amir Najmi, Siddartha Naidu
 * K-FAC for approximating Fisher Information, Hessian
   * 2015 - ["Optimizing Neural Networks with Kronecker-factored Approximate Curvature"](https://arxiv.org/abs/1503.05671) - James Martens, Roger Grosse
 
-# Neural activations
+# Neural Activations
 
 * sigmoid
 * ReLU
@@ -169,12 +169,12 @@ Amir Najmi, Siddartha Naidu
 * Gumbel quantization
   * 2016 - ["Categorical Reparameterization with Gumbel-Softmax"](https://arxiv.org/abs/1611.01144v5) - Eric Jang, Shixiang Gu, Ben Poole
 
-# Neural initializations
+# Neural Initializations
 
 * Xavier/Glorot initialization - vanishing/exploding gradients
   * 2010 - ["Understanding the difficulty of training deep feedforward neural networks"](https://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf) - Xavier Glorot, Yoshua Bengio
 
-# Neural layers
+# Neural Layers
 
 * MLP
 * convolutions (+ pooling)
@@ -219,7 +219,7 @@ Good list here: https://spinningup.openai.com/en/latest/spinningup/rl_intro2.htm
 * direct preference optimization (DPO)
   * 2023 - ["Direct Preference Optimization: Your Language Model is Secretly a Reward Model"](https://arxiv.org/abs/2305.18290) - Rafael Rafailov, Archit Sharma, Eric Mitchell, Stefano Ermon, Christopher D. Manning, Chelsea Finn
 
-# Hyperparameter tuning / Architecture Search
+# Hyperparameter Tuning / Architecture Search
 
 * random search > grid search
   * 2012 - ["Random Search for Hyper-Parameter Optimization"](https://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a) - James Bergstra, Yoshua Bengio
@@ -518,14 +518,14 @@ Good list here: https://spinningup.openai.com/en/latest/spinningup/rl_intro2.htm
   * 2023 - ["Vision Transformers Need Registers"](https://arxiv.org/abs/2309.16588) - Timothée Darcet, Maxime Oquab, Julien Mairal, Piotr Bojanowski
   * 2023 - ["Efficient Streaming Language Models with Attention Sinks"](https://arxiv.org/abs/2309.17453) - Guangxuan Xiao, Yuandong Tian, Beidi Chen, Song Han, Mike Lewis
 
-## Surprisingly Relevant Group Theory
+# Surprisingly Relevant Group Theory
 
 * Connecting the Variational Renormalization Group and Unsupervised Learning
   * 2014 - ["An exact mapping between the Variational Renormalization Group and Deep Learning"](https://arxiv.org/abs/1410.3831) - Pankaj Mehta, David J. Schwab
 * learning a feature is equivalent to searching for a transformation that stabilizes it.
   * 2015 - ["Why does Deep Learning work? - A perspective from Group Theory"](https://arxiv.org/abs/1412.6621) - Arnab Paul, Suresh Venkatasubramanian
 
-# Information theory
+# Information Theory
 
 * Entropy
   * 1948 - ["A Mathematical Theory of Communication"](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) - Claude Shannon
@@ -533,7 +533,7 @@ Good list here: https://spinningup.openai.com/en/latest/spinningup/rl_intro2.htm
 * KL divergence
 
 
-# Causal Modeling / experimentation
+# Causal Modeling / Experimentation
 
 * Double machine learning
   * 2016 - ["Double/Debiased Machine Learning for Treatment and Causal Parameters"](https://arxiv.org/abs/1608.00060) - Victor Chernozhukov, Denis Chetverikov, Mert Demirer, Esther Duflo, Christian Hansen, Whitney Newey, James Robins
@@ -547,7 +547,7 @@ Good list here: https://spinningup.openai.com/en/latest/spinningup/rl_intro2.htm
 * bandit learning for on-line experimentation
 * belief propagation
 
-# Time series forecasting
+# Time Series Forecasting
 
 * ARMA / ARIMA / ARIMAX
 * sin/cos cyclical day encodings
@@ -620,9 +620,9 @@ Good list here: https://spinningup.openai.com/en/latest/spinningup/rl_intro2.htm
 * Speculative decoding
   * 2023 -["Accelerating Large Language Model Decoding with Speculative Sampling"](https://arxiv.org/abs/2302.01318) - Charlie Chen, Sebastian Borgeaud, Geoffrey Irving, Jean-Baptiste Lespiau, Laurent Sifre, John Jumper
 
-# Development of attention mechanisms
+# Development of Attention Mechanisms
 
-largely via https://twitter.com/karpathy/status/1668302116576976906
+largely via https://x.com/karpathy/status/1668302116576976906
 
 * https://arxiv.org/abs/1308.0850
 * https://arxiv.org/abs/1409.0473
