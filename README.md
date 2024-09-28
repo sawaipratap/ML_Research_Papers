@@ -18,16 +18,17 @@ A collection of significant/impactful articles, sometimes it's just best to go s
   * 1999 - ["Improved Boosting Algorithms Using Confidence-rated Predictions"](https://sci2s.ugr.es/keel/pdf/algorithm/articulo/1999-ML-Improved%20boosting%20algorithms%20using%20confidence-rated%20predictions%20(Schapire%20y%20Singer\\).pdf) - Yoav Freund, Robert E Schapire
 * Gradient Boosting
   * 2016 - ["XGBoost: A Scalable Tree Boosting System"](https://arxiv.org/pdf/1603.02754.pdf) - Tianqi Chen, Carlos Guestrin
-* bias-variance tradeoff
+* Bias-Variance Tradeoff
   * 1997 - ["Bias Plus Variance Decomposition for Zero-One Loss Functions"](https://www.researchgate.net/publication/2793430_Bias_Plus_Variance_Decomposition_for_Zero-One_Loss_Functions) - Ron Kohavi, David H. Wolpert
-* non-parametric bootstrap
+* Non-Parametric Bootstrap
   * 1979 - ["Bootstrap Methods: Another Look at the Jackknife"](https://projecteuclid.org/journals/annals-of-statistics/volume-7/issue-1/Bootstrap-Methods-Another-Look-at-the-Jackknife/10.1214/aos/1176344552.full) - Bradley Effron
-* permutation testing (target shuffle)
+* Permutation Pesting (target shuffle)
 * PCA
   * 1991 - ["Face Recognition Using Eigenfaces"](https://www.cin.ufpe.br/~rps/Artigos/Face%20Recognition%20Using%20Eigenfaces.pdf) - Matthew Turk, Alex Pentland
-* nonlinear PCA variants
+* Nonlinear PCA variants
   * 1989 - ["Principal Curves"](https://web.stanford.edu/~hastie/Papers/Principal_Curves.pdf) - Trevor Hastie, Werner Stuetzle
 * ICA
+  * 1989 - ["Independent Component Analysis"](https://www.cs.helsinki.fi/u/ahyvarin/papers/NN00new.pdf) - Aapo Hyvärinen, Erkki Oja
 * LSI/LSA
   * 1988 - ["Indexing by Latent Semantic Analysis"](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.62.1152&rep=rep1&type=pdf) - Scott Deerwester, Susan T. Dumais, George W. Furnas, Thomas K. Landauer, Richard Harshman
 * LDA
@@ -36,7 +37,7 @@ A collection of significant/impactful articles, sometimes it's just best to go s
   * 1992 - [A Training Algorithm for Optimal Margin Classifier](https://www.researchgate.net/publication/2376111_A_Training_Algorithm_for_Optimal_Margin_Classifier) - Bernhard E. Boser, Isabelle Guyon, Vladimir N. Vapnik
 * NMF
   * 2003 - ["Document Clustering Based On Non-negative Matrix Factorization"](https://people.eecs.berkeley.edu/~jfc/hcc/courseSP05/lecs/lec14/NMF03.pdf) - Wei Xu, Xin Liu, Yihong Gon
-* random projections
+* Random Projections
   * https://cseweb.ucsd.edu/~dasgupta/papers/randomf.pdf
   * See also Johnson-Lindenstrauss lemma
 * MCMC - metropolis-hastings, HMC, reversible jump, NUTS
