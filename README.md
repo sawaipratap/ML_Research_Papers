@@ -2,7 +2,7 @@
 
 A collection of significant/impactful articles, sometimes it's just best to go straight to the source.
 
-# "Classic" ML
+# Classic ML
 
 * Lasso/Elasticnet
   * 1996 - ["Regression Shrinkage and Selection via the Lasso"](https://statweb.stanford.edu/~tibs/lasso/lasso.pdf) - Robert Tibshirani
@@ -22,7 +22,7 @@ A collection of significant/impactful articles, sometimes it's just best to go s
   * 1997 - ["Bias Plus Variance Decomposition for Zero-One Loss Functions"](https://www.researchgate.net/publication/2793430_Bias_Plus_Variance_Decomposition_for_Zero-One_Loss_Functions) - Ron Kohavi, David H. Wolpert
 * Non-Parametric Bootstrap
   * 1979 - ["Bootstrap Methods: Another Look at the Jackknife"](https://projecteuclid.org/journals/annals-of-statistics/volume-7/issue-1/Bootstrap-Methods-Another-Look-at-the-Jackknife/10.1214/aos/1176344552.full) - Bradley Effron
-* Permutation Pesting (target shuffle)
+* Permutation Pasting (target shuffle)
 * PCA
   * 1991 - ["Face Recognition Using Eigenfaces"](https://www.cin.ufpe.br/~rps/Artigos/Face%20Recognition%20Using%20Eigenfaces.pdf) - Matthew Turk, Alex Pentland
 * Nonlinear PCA variants
@@ -67,9 +67,10 @@ A collection of significant/impactful articles, sometimes it's just best to go s
 * KNN
   * 1967 - ["Nearest Neighbor Pattern Classification"](http://ssg.mit.edu/cal/abs/2000_spring/np_dens/classification/cover67.pdf) - T. M. Cover, P. E. Hart
 * Benford's Law
-  * 1938 - "The Law of Anomalous Numbers" - Frank Benford
-  * 1881 -  "Note on the frequency of use of the different digits in natural numbers" - Simon Newcomb
-* Guassian KDE
+  * 1938 - ["The Law of Anomalous Numbers"](https://isidore.co/misc/Physics%20papers%20and%20books/Zotero/storage/ZEBWDL73/Benford%20-%201938%20-%20The%20Law%20of%20Anomalous%20Numbers.pdf) - Frank Benford
+  * 1881 -  ["Note on the frequency of use of the different digits in natural numbers"](https://pdodds.w3.uvm.edu/files/papers/others/1881/newcomb1881a.pdf) - Simon Newcomb
+* Gaussian KDE
+  * 
 * Boruta
   * 2010 - ["Feature Selection with the Boruta Package"](https://www.jstatsoft.org/article/view/v036i11) - Miron B. Kursa, Witold R. Rudnicki
 * Step-wise regression / forward selection / backwards elimination / recursive feature elimination
